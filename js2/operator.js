@@ -4,12 +4,12 @@ console.log('1' + 2);
 console.log('string literals: 1 + 2 = ${1 + 2}');
 
 // 2. Numeric operators
-console.log(1 + 1); //add
-console.log(1 - 1); // substract
-console.log(1 / 1); // divide
-console.log(1 * 1); // multiply
-console.log(5 % 2); // remainder
-console.log(2 ** 3); // exponentiation
+console.log(1 + 1); // 더하기
+console.log(1 - 1); // 빼기
+console.log(1 / 1); // 나누기
+console.log(1 * 1); // 곱하기
+console.log(5 % 2); // 나머지
+console.log(2 ** 3); // 2의3승
 
 // 3. Increment and decrement operators
 let counter = 2;
